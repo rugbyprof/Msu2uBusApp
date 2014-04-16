@@ -33,11 +33,81 @@
                 <p class="event listening">Connecting to Device</p>
                 <p class="event received">Device is Ready</p>
             </div>
+            <div id="map-canvas" style="width: 100%; height: 100%;"></div>
         </div>
         <script type="text/javascript" src="phonegap.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script type="text/javascript">
             app.initialize();
+        </script>
+        <script type="text/javascript">
+
+            var getQueryString = function (key) {
+                var tokenPart = location.search.match(key + "=([^&]+)")	
+                if (tokenPart && tokenPart.length == 2) {
+                    return decodeURIComponent(tokenPart[1])
+                } else {
+                    return null
+                }
+
+            } 
+
+
+            var gpsiUrl = "http://api.gpsinsight.com/v2"
+            var token = getQueryString("session_token");
+            var group = getQueryString("group");
+            var map
+
+            $(document).ready(function () {
+                initializeGoogleMap();
+                //replace these prompts with your information
+
+                if (token) {
+                    getVehicles();	
+                } else {
+                    var username = prompt("username", "");
+                    var password = prompt("password (letters are shown)", "");
+                    login(username, password)
+                }
+            })
+
+
+            var initializeGoogleMap = function () {
+                var mapOptions = {
+                    center: new google.maps.LatLng(40, -96),
+                    zoom: 4,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP
+                }
+                map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions)
+            }
+
+            var login = function (username, password) {
+                $.getJSON(gpsiUrl + "/userauth/login.xjson?username=" + username + "&password=" + password + "&callback=?", function (sessionInfo) {
+                    token = sessionInfo.token
+                    getVehicles()
+                })
+            }
+
+            var getVehicles = function () {
+                var groupParam = encodeURIComponent(group || "ALL")
+                $.getJSON(gpsiUrl + "/vehiclegroup/location.xjson?group="+groupParam+"&session_token=" + token + "&callback=?", function (vehicles) {
+                    displayVehiclesOnMap(vehicles)
+                })
+            }
+
+            var displayVehiclesOnMap = function (vehicles) {
+                for (var i = 0; i < vehicles.length; i++) {
+                    var vehicle = vehicles[i]
+                    var marker = new google.maps.Marker({
+                        map: map,
+                        position: new google.maps.LatLng(vehicle.latitude, vehicle.longitude),
+                        title: vehicle.label
+                    })	
+                }
+            }
+
         </script>
     </body>
 </html>
