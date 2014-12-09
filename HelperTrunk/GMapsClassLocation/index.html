@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    
+    <meta charset="utf-8">
+    <title>
+      Waypoints in directions
+    </title>
+    <style>
+      body{
+      	padding:10px;
+      }
+      #map-canvas {
+        height: 500px;
+        margin: 0px;
+        padding: 0px
+      }
+      #panel {
+        position: absolute;
+        top: 5px;
+        left: 50%;
+        margin-left: -180px;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+      }
+	  .bs-callout-danger {
+	    border-left-color: #d9534f;
+	  }
+	  .bs-callout {
+		padding: -5px 5px -5px 5px;
+		margin: 0 0 5px 0;
+		border: 1px solid #eee;
+		border-left-width: 5px;
+		border-radius: 3px;
+	 }
+	 #allpoints{
+	    width:200px;
+	 }
+    </style>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+
+    <script>
+	var iconBase = 'http://killzombieswith.us/GMapsBus/';
+	var map;
+	
+	var Points = [];
+	var Stops = [];
+      
+	function initialize() {
+
+		var msu = new google.maps.LatLng(33.8648000,-98.5287200);
+		var mapOptions = {
+			zoom: 14,
+			center: msu
+		}
+		map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+
+
+		$.getJSON( "route_points.json", function( data ) {
+			$.each( data['Points'], function( key, val ) {
+				val = val.split(',');
+				Points.push( new google.maps.LatLng(val[0],val[1]));
+			});
+			console.log(Points);
+			
+			var busRoute = new google.maps.Polyline({
+				path: Points,
+				geodesic: true,
+				strokeColor: '#b21e1e',
+				strokeOpacity: 0.4,
+				strokeWeight: 4
+			});
+
+			busRoute.setMap(map);
+		});
+		
+		$.getJSON( "bus_stops.json", function( data ) {
+			var i = 0;
+			$.each( data['BusStops'], function( key, val ) {
+				val = val.split(',');
+				Stops.push( new google.maps.LatLng(val[0],val[1]));
+				
+				var marker = new google.maps.Marker({
+					position: Stops[Stops.length-1],
+					map: map,
+					title: "Num: "+i,
+					icon: iconBase + 'bus_dark.png'
+				});
+				i++;
+			});
+			
+
+
+		});	
+
+	}
+	
+    google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+  </head>
+  <body>
+    <div class="container">
+
+        <!-- Heading Row -->
+        <div class="row">
+            <div class="col-md-8">
+				<div class="panel panel-default">
+				  <div class="panel-heading">
+					<h3 class="panel-title">Msu Bus Route</h3>
+				  </div>
+				  <div class="panel-body" id="map-canvas">
+				  </div>
+				</div>
+            </div>
+            <!-- /.col-md-8 -->
+            <div class="col-md-4" id="directions">
+            </div>
+            <!-- /.col-md-4 -->
+        </div>
+    </div>
+  </body>
+</html>
+
+
+ 

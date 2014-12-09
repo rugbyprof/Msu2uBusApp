@@ -1,0 +1,3284 @@
+Array
+(
+    [0] => Array
+(
+    [0] => Array
+        (
+            [tag] => KML
+            [type] => open
+            [level] => 1
+            [attributes] => Array
+                (
+                    [XMLNS] => http://earth.google.com/kml/2.1
+                )
+
+        )
+
+    [1] => Array
+        (
+            [tag] => NETWORKLINKCONTROL
+            [type] => open
+            [level] => 2
+        )
+
+    [2] => Array
+        (
+            [tag] => MINREFRESHPERIOD
+            [type] => complete
+            [level] => 3
+            [value] => 3600
+        )
+
+    [3] => Array
+        (
+            [tag] => NETWORKLINKCONTROL
+            [type] => close
+            [level] => 2
+        )
+
+    [4] => Array
+        (
+            [tag] => DOCUMENT
+            [type] => open
+            [level] => 2
+        )
+
+    [5] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 3
+            [value] => Current Fleet Status (4110)
+        )
+
+    [6] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [7] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 460 - Stopped 3 hrs, 52 min
+        )
+
+    [8] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => no info
+        )
+
+    [9] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 460</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 3 hrs, 52 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 22:49:12</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [10] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [11] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [12] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [13] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [14] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [15] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [16] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [17] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [18] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [19] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [20] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [21] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [22] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [23] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [24] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.51065,33.91028,0
+        )
+
+    [25] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [26] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [27] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [28] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 461 - Stopped 7 hrs, 50 min
+        )
+
+    [29] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => no info
+        )
+
+    [30] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 461</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 7 hrs, 50 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 18:51:34</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [31] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [32] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [33] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [34] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [35] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [36] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [37] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [38] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [39] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [40] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [41] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [42] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [43] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [44] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [45] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.5105,33.9104,0
+        )
+
+    [46] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [47] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [48] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [49] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 462 - Stopped 6 hrs, 5 min
+        )
+
+    [50] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => no info
+        )
+
+    [51] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 462</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 6 hrs, 5 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 20:36:38</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [52] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [53] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [54] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [55] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [56] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [57] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [58] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [59] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [60] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [61] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [62] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [63] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [64] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [65] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [66] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.51077,33.91042,0
+        )
+
+    [67] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [68] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [69] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [70] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 463 - Stopped 6 hrs, 47 min
+        )
+
+    [71] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => 6Sheppard Express,
+        )
+
+    [72] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 463</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 6 hrs, 47 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 19:54:41</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [73] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [74] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [75] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [76] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [77] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [78] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [79] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [80] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [81] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [82] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [83] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [84] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [85] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [86] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [87] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.51063,33.91032,0
+        )
+
+    [88] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [89] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [90] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [91] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 464 - Stopped 7 hrs, 13 min
+        )
+
+    [92] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => no info
+        )
+
+    [93] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 464</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 7 hrs, 13 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 19:28:21</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [94] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [95] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [96] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [97] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [98] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [99] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [100] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [101] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [102] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [103] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [104] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [105] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [106] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [107] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [108] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.51079,33.91039,0
+        )
+
+    [109] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [110] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [111] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [112] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 465 - Stopped 4 hrs, 35 min
+        )
+
+    [113] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => no info
+        )
+
+    [114] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 465</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 4 hrs, 35 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 22:06:58</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [115] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [116] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [117] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [118] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [119] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [120] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [121] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [122] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [123] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [124] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [125] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [126] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [127] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [128] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [129] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.51062,33.91041,0
+        )
+
+    [130] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [131] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [132] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [133] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 466 - Stopped 6 hrs, 25 min
+        )
+
+    [134] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => 7Connector,
+        )
+
+    [135] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 466</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 6 hrs, 25 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 20:16:18</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [136] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [137] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [138] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [139] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [140] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [141] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [142] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [143] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [144] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [145] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [146] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [147] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [148] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [149] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [150] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.51093,33.91036,0
+        )
+
+    [151] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [152] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [153] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [154] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 467 - Stopped 7 hrs, 18 min
+        )
+
+    [155] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => 2Central,
+        )
+
+    [156] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 467</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 7 hrs, 18 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 19:23:06</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [157] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [158] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [159] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [160] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [161] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [162] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [163] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [164] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [165] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [166] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [167] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [168] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [169] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [170] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [171] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.51075,33.91035,0
+        )
+
+    [172] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [173] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [174] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [175] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 468 - Stopped 6 hrs, 45 min
+        )
+
+    [176] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => 3Southeast,
+        )
+
+    [177] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 468</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 6 hrs, 45 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 19:56:46</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [178] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [179] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [180] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [181] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [182] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [183] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [184] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [185] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [186] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [187] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [188] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [189] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [190] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [191] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [192] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.51077,33.91042,0
+        )
+
+    [193] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [194] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [195] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [196] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 469 - Stopped 6 hrs, 43 min
+        )
+
+    [197] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => no info
+        )
+
+    [198] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 469</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 6 hrs, 43 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 19:58:42</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [199] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [200] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [201] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [202] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [203] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [204] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [205] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [206] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [207] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [208] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [209] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [210] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [211] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [212] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [213] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.51075,33.91032,0
+        )
+
+    [214] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [215] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [216] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [217] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 470 - Stopped 10 hrs, 52 min
+        )
+
+    [218] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => 8Mustang,
+        )
+
+    [219] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 470</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 10 hrs, 52 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 15:49:14</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [220] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [221] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [222] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [223] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [224] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [225] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [226] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [227] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [228] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [229] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [230] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [231] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [232] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [233] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [234] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.55761,33.94998,0
+        )
+
+    [235] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [236] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [237] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [238] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 471 - Stopped 7 hrs, 2 min
+        )
+
+    [239] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => 5Southwest,
+        )
+
+    [240] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 471</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 7 hrs, 2 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 19:39:41</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [241] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [242] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [243] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [244] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [245] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [246] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [247] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [248] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [249] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [250] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [251] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [252] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [253] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [254] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [255] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.51054,33.91038,0
+        )
+
+    [256] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [257] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [258] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [259] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 488 - Stopped 125 days
+        )
+
+    [260] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => no info
+        )
+
+    [261] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 488</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 125 days</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Mar 13, 2014 14:38:17</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [262] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [263] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [264] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [265] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [266] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [267] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [268] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [269] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [270] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [271] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [272] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [273] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [274] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [275] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [276] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.51039,33.91036,0
+        )
+
+    [277] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [278] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [279] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => open
+            [level] => 3
+            [attributes] => Array
+                (
+                    [ID] => point
+                )
+
+        )
+
+    [280] => Array
+        (
+            [tag] => NAME
+            [type] => complete
+            [level] => 4
+            [value] => 495 - Stopped 14 hrs, 51 min
+        )
+
+    [281] => Array
+        (
+            [tag] => SNIPPET
+            [type] => complete
+            [level] => 4
+            [attributes] => Array
+                (
+                    [MAXLINES] => 2
+                )
+
+            [value] => 4North,
+        )
+
+    [282] => Array
+        (
+            [tag] => DESCRIPTION
+            [type] => complete
+            [level] => 4
+            [value] => <table cellpadding="2" cellspacing="0" border="0"><tr><td rowspan="8" valign="top"><img src="http://portal.gpsinsight.com/label/gps_insight_logo_small.png"/></td></tr><tr bgcolor="#eeeeee"><th align="right">Label: </th><td> 495</td></tr><tr bgcolor="#ffffff"><th align="right">Status: </th><td> Stopped 14 hrs, 51 min</td></tr><tr bgcolor="#eeeeee"><th align="right">Recorded: </th><td> Jul 16, 2014 11:50:10</td></tr><tr bgcolor="#ffffff"><th align="right">Current: </th><td> Jul 17, 2014 02:42:00</td></tr></table>
+        )
+
+    [283] => Array
+        (
+            [tag] => STYLE
+            [type] => open
+            [level] => 4
+        )
+
+    [284] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [285] => Array
+        (
+            [tag] => SCALE
+            [type] => complete
+            [level] => 6
+            [value] => 1.1
+        )
+
+    [286] => Array
+        (
+            [tag] => ICON
+            [type] => open
+            [level] => 6
+        )
+
+    [287] => Array
+        (
+            [tag] => HREF
+            [type] => complete
+            [level] => 7
+            [value] => http://portal.gpsinsight.com/common/icons/icons24/basic_shapes/circle/red_dot.png
+        )
+
+    [288] => Array
+        (
+            [tag] => ICON
+            [type] => close
+            [level] => 6
+        )
+
+    [289] => Array
+        (
+            [tag] => ICONSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [290] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => open
+            [level] => 5
+        )
+
+    [291] => Array
+        (
+            [tag] => COLOR
+            [type] => complete
+            [level] => 6
+            [value] => ffffffff
+        )
+
+    [292] => Array
+        (
+            [tag] => LABELSTYLE
+            [type] => close
+            [level] => 5
+        )
+
+    [293] => Array
+        (
+            [tag] => STYLE
+            [type] => close
+            [level] => 4
+        )
+
+    [294] => Array
+        (
+            [tag] => POINT
+            [type] => open
+            [level] => 4
+        )
+
+    [295] => Array
+        (
+            [tag] => EXTRUDE
+            [type] => complete
+            [level] => 5
+            [value] => 1
+        )
+
+    [296] => Array
+        (
+            [tag] => ALTITUDEMODE
+            [type] => complete
+            [level] => 5
+            [value] => relativeToGround
+        )
+
+    [297] => Array
+        (
+            [tag] => COORDINATES
+            [type] => complete
+            [level] => 5
+            [value] => -98.51042,33.91038,0
+        )
+
+    [298] => Array
+        (
+            [tag] => POINT
+            [type] => close
+            [level] => 4
+        )
+
+    [299] => Array
+        (
+            [tag] => PLACEMARK
+            [type] => close
+            [level] => 3
+        )
+
+    [300] => Array
+        (
+            [tag] => DOCUMENT
+            [type] => close
+            [level] => 2
+        )
+
+    [301] => Array
+        (
+            [tag] => KML
+            [type] => close
+            [level] => 1
+        )
+
+)
+
+    [1] => Array
+(
+    [KML] => Array
+        (
+            [0] => 0
+            [1] => 301
+        )
+
+    [NETWORKLINKCONTROL] => Array
+        (
+            [0] => 1
+            [1] => 3
+        )
+
+    [MINREFRESHPERIOD] => Array
+        (
+            [0] => 2
+        )
+
+    [DOCUMENT] => Array
+        (
+            [0] => 4
+            [1] => 300
+        )
+
+    [NAME] => Array
+        (
+            [0] => 5
+            [1] => 7
+            [2] => 28
+            [3] => 49
+            [4] => 70
+            [5] => 91
+            [6] => 112
+            [7] => 133
+            [8] => 154
+            [9] => 175
+            [10] => 196
+            [11] => 217
+            [12] => 238
+            [13] => 259
+            [14] => 280
+        )
+
+    [PLACEMARK] => Array
+        (
+            [0] => 6
+            [1] => 26
+            [2] => 27
+            [3] => 47
+            [4] => 48
+            [5] => 68
+            [6] => 69
+            [7] => 89
+            [8] => 90
+            [9] => 110
+            [10] => 111
+            [11] => 131
+            [12] => 132
+            [13] => 152
+            [14] => 153
+            [15] => 173
+            [16] => 174
+            [17] => 194
+            [18] => 195
+            [19] => 215
+            [20] => 216
+            [21] => 236
+            [22] => 237
+            [23] => 257
+            [24] => 258
+            [25] => 278
+            [26] => 279
+            [27] => 299
+        )
+
+    [SNIPPET] => Array
+        (
+            [0] => 8
+            [1] => 29
+            [2] => 50
+            [3] => 71
+            [4] => 92
+            [5] => 113
+            [6] => 134
+            [7] => 155
+            [8] => 176
+            [9] => 197
+            [10] => 218
+            [11] => 239
+            [12] => 260
+            [13] => 281
+        )
+
+    [DESCRIPTION] => Array
+        (
+            [0] => 9
+            [1] => 30
+            [2] => 51
+            [3] => 72
+            [4] => 93
+            [5] => 114
+            [6] => 135
+            [7] => 156
+            [8] => 177
+            [9] => 198
+            [10] => 219
+            [11] => 240
+            [12] => 261
+            [13] => 282
+        )
+
+    [STYLE] => Array
+        (
+            [0] => 10
+            [1] => 20
+            [2] => 31
+            [3] => 41
+            [4] => 52
+            [5] => 62
+            [6] => 73
+            [7] => 83
+            [8] => 94
+            [9] => 104
+            [10] => 115
+            [11] => 125
+            [12] => 136
+            [13] => 146
+            [14] => 157
+            [15] => 167
+            [16] => 178
+            [17] => 188
+            [18] => 199
+            [19] => 209
+            [20] => 220
+            [21] => 230
+            [22] => 241
+            [23] => 251
+            [24] => 262
+            [25] => 272
+            [26] => 283
+            [27] => 293
+        )
+
+    [ICONSTYLE] => Array
+        (
+            [0] => 11
+            [1] => 16
+            [2] => 32
+            [3] => 37
+            [4] => 53
+            [5] => 58
+            [6] => 74
+            [7] => 79
+            [8] => 95
+            [9] => 100
+            [10] => 116
+            [11] => 121
+            [12] => 137
+            [13] => 142
+            [14] => 158
+            [15] => 163
+            [16] => 179
+            [17] => 184
+            [18] => 200
+            [19] => 205
+            [20] => 221
+            [21] => 226
+            [22] => 242
+            [23] => 247
+            [24] => 263
+            [25] => 268
+            [26] => 284
+            [27] => 289
+        )
+
+    [SCALE] => Array
+        (
+            [0] => 12
+            [1] => 33
+            [2] => 54
+            [3] => 75
+            [4] => 96
+            [5] => 117
+            [6] => 138
+            [7] => 159
+            [8] => 180
+            [9] => 201
+            [10] => 222
+            [11] => 243
+            [12] => 264
+            [13] => 285
+        )
+
+    [ICON] => Array
+        (
+            [0] => 13
+            [1] => 15
+            [2] => 34
+            [3] => 36
+            [4] => 55
+            [5] => 57
+            [6] => 76
+            [7] => 78
+            [8] => 97
+            [9] => 99
+            [10] => 118
+            [11] => 120
+            [12] => 139
+            [13] => 141
+            [14] => 160
+            [15] => 162
+            [16] => 181
+            [17] => 183
+            [18] => 202
+            [19] => 204
+            [20] => 223
+            [21] => 225
+            [22] => 244
+            [23] => 246
+            [24] => 265
+            [25] => 267
+            [26] => 286
+            [27] => 288
+        )
+
+    [HREF] => Array
+        (
+            [0] => 14
+            [1] => 35
+            [2] => 56
+            [3] => 77
+            [4] => 98
+            [5] => 119
+            [6] => 140
+            [7] => 161
+            [8] => 182
+            [9] => 203
+            [10] => 224
+            [11] => 245
+            [12] => 266
+            [13] => 287
+        )
+
+    [LABELSTYLE] => Array
+        (
+            [0] => 17
+            [1] => 19
+            [2] => 38
+            [3] => 40
+            [4] => 59
+            [5] => 61
+            [6] => 80
+            [7] => 82
+            [8] => 101
+            [9] => 103
+            [10] => 122
+            [11] => 124
+            [12] => 143
+            [13] => 145
+            [14] => 164
+            [15] => 166
+            [16] => 185
+            [17] => 187
+            [18] => 206
+            [19] => 208
+            [20] => 227
+            [21] => 229
+            [22] => 248
+            [23] => 250
+            [24] => 269
+            [25] => 271
+            [26] => 290
+            [27] => 292
+        )
+
+    [COLOR] => Array
+        (
+            [0] => 18
+            [1] => 39
+            [2] => 60
+            [3] => 81
+            [4] => 102
+            [5] => 123
+            [6] => 144
+            [7] => 165
+            [8] => 186
+            [9] => 207
+            [10] => 228
+            [11] => 249
+            [12] => 270
+            [13] => 291
+        )
+
+    [POINT] => Array
+        (
+            [0] => 21
+            [1] => 25
+            [2] => 42
+            [3] => 46
+            [4] => 63
+            [5] => 67
+            [6] => 84
+            [7] => 88
+            [8] => 105
+            [9] => 109
+            [10] => 126
+            [11] => 130
+            [12] => 147
+            [13] => 151
+            [14] => 168
+            [15] => 172
+            [16] => 189
+            [17] => 193
+            [18] => 210
+            [19] => 214
+            [20] => 231
+            [21] => 235
+            [22] => 252
+            [23] => 256
+            [24] => 273
+            [25] => 277
+            [26] => 294
+            [27] => 298
+        )
+
+    [EXTRUDE] => Array
+        (
+            [0] => 22
+            [1] => 43
+            [2] => 64
+            [3] => 85
+            [4] => 106
+            [5] => 127
+            [6] => 148
+            [7] => 169
+            [8] => 190
+            [9] => 211
+            [10] => 232
+            [11] => 253
+            [12] => 274
+            [13] => 295
+        )
+
+    [ALTITUDEMODE] => Array
+        (
+            [0] => 23
+            [1] => 44
+            [2] => 65
+            [3] => 86
+            [4] => 107
+            [5] => 128
+            [6] => 149
+            [7] => 170
+            [8] => 191
+            [9] => 212
+            [10] => 233
+            [11] => 254
+            [12] => 275
+            [13] => 296
+        )
+
+    [COORDINATES] => Array
+        (
+            [0] => 24
+            [1] => 45
+            [2] => 66
+            [3] => 87
+            [4] => 108
+            [5] => 129
+            [6] => 150
+            [7] => 171
+            [8] => 192
+            [9] => 213
+            [10] => 234
+            [11] => 255
+            [12] => 276
+            [13] => 297
+        )
+
+)
+
+    [Info] => Array
+        (
+            [0] => Array
+(
+    [Label] => 460
+    [Status] => Stopped 3 hrs, 52 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 22:49:12
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 12
+            [min] => 49
+            [hrs] => 22
+            [unix] => 1405565352
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.91028
+            [lon] => -98.51065
+        )
+
+)
+
+            [1] => Array
+(
+    [Label] => 461
+    [Status] => Stopped 7 hrs, 50 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 18:51:34
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 34
+            [min] => 51
+            [hrs] => 18
+            [unix] => 1405551094
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.9104
+            [lon] => -98.5105
+        )
+
+)
+
+            [2] => Array
+(
+    [Label] => 462
+    [Status] => Stopped 6 hrs, 5 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 20:36:38
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 38
+            [min] => 36
+            [hrs] => 20
+            [unix] => 1405557398
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.91042
+            [lon] => -98.51077
+        )
+
+)
+
+            [3] => Array
+(
+    [Label] => 463
+    [Status] => Stopped 6 hrs, 47 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 19:54:41
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 41
+            [min] => 54
+            [hrs] => 19
+            [unix] => 1405554881
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.91032
+            [lon] => -98.51063
+        )
+
+)
+
+            [4] => Array
+(
+    [Label] => 464
+    [Status] => Stopped 7 hrs, 13 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 19:28:21
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 21
+            [min] => 28
+            [hrs] => 19
+            [unix] => 1405553301
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.91039
+            [lon] => -98.51079
+        )
+
+)
+
+            [5] => Array
+(
+    [Label] => 465
+    [Status] => Stopped 4 hrs, 35 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 22:06:58
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 58
+            [min] => 06
+            [hrs] => 22
+            [unix] => 1405562818
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.91041
+            [lon] => -98.51062
+        )
+
+)
+
+            [6] => Array
+(
+    [Label] => 466
+    [Status] => Stopped 6 hrs, 25 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 20:16:18
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 18
+            [min] => 16
+            [hrs] => 20
+            [unix] => 1405556178
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.91036
+            [lon] => -98.51093
+        )
+
+)
+
+            [7] => Array
+(
+    [Label] => 467
+    [Status] => Stopped 7 hrs, 18 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 19:23:06
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 06
+            [min] => 23
+            [hrs] => 19
+            [unix] => 1405552986
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.91035
+            [lon] => -98.51075
+        )
+
+)
+
+            [8] => Array
+(
+    [Label] => 468
+    [Status] => Stopped 6 hrs, 45 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 19:56:46
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 46
+            [min] => 56
+            [hrs] => 19
+            [unix] => 1405555006
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.91042
+            [lon] => -98.51077
+        )
+
+)
+
+            [9] => Array
+(
+    [Label] => 469
+    [Status] => Stopped 6 hrs, 43 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 19:58:42
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 42
+            [min] => 58
+            [hrs] => 19
+            [unix] => 1405555122
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.91032
+            [lon] => -98.51075
+        )
+
+)
+
+            [10] => Array
+(
+    [Label] => 470
+    [Status] => Stopped 10 hrs, 52 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 15:49:14
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 14
+            [min] => 49
+            [hrs] => 15
+            [unix] => 1405540154
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.94998
+            [lon] => -98.55761
+        )
+
+)
+
+            [11] => Array
+(
+    [Label] => 471
+    [Status] => Stopped 7 hrs, 2 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 19:39:41
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 41
+            [min] => 39
+            [hrs] => 19
+            [unix] => 1405553981
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.91038
+            [lon] => -98.51054
+        )
+
+)
+
+            [12] => Array
+(
+    [Label] => 488
+    [Status] => Stopped 125 days
+    [Recorded] => Array
+        (
+            [string] => Mar 13, 2014 14:38:17
+            [day] => 13
+            [month] => 3
+            [year] => 2014
+            [sec] => 17
+            [min] => 38
+            [hrs] => 14
+            [unix] => 1394735897
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.91036
+            [lon] => -98.51039
+        )
+
+)
+
+            [13] => Array
+(
+    [Label] => 495
+    [Status] => Stopped 14 hrs, 51 min
+    [Recorded] => Array
+        (
+            [string] => Jul 16, 2014 11:50:10
+            [day] => 16
+            [month] => 7
+            [year] => 2014
+            [sec] => 10
+            [min] => 50
+            [hrs] => 11
+            [unix] => 1405525810
+        )
+
+    [Current] => Array
+        (
+            [string] => Jul 17, 2014 02:42:00
+            [day] => 17
+            [month] => 7
+            [year] => 2014
+            [sec] => 00
+            [min] => 42
+            [hrs] => 02
+            [unix] => 1405579320
+        )
+
+    [location] => Array
+        (
+            [lat] => 33.91038
+            [lon] => -98.51042
+        )
+
+)
+
+        )
+
+)

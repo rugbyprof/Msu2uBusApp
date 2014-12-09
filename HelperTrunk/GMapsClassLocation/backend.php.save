@@ -1,0 +1,19 @@
+<?php
+
+$db = new PDO('mysql:host=localhost;dbname=mobile_web;charset=utf8', 'mobile', 'mobile');
+
+switch($action){
+	case 'insert':
+	break;
+	case 'delete':
+	break;
+	case 'select':
+	break;
+}
+
+INSERT INTO `mobile_web`.`Active_Users` (`Id`, `First`, `Last`, `Thumbnail`, `Lat`, `Lon`, `Sex`, `Phone`, `Email`, `Busy`, `LoggedIn`) 
+VALUES ('3', 'Billy', 'Bob', '', '33.8474', '-98.76464', 'M', '', '', '1', '0');
+
+foreach($db->query('SELECT * FROM Active_Users') as $row) {
+    echo $row['Lat'].' '.$row['Lon'];
+}
